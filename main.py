@@ -11,6 +11,10 @@ name + warm bread + knock, fresh wording is "best apology I've ever
 eaten". No greeting-card phrasing, no cliche.
 
 Revision: entry sentence written once, unchanged since first draft.
+Second revision (turn 2): docstring tightened to name the judging trade-off
+explicitly — the twist IS the kindness, not a decoration on it — so the
+reader meets the surprise and the warmth in the same beat; the entry
+sentence itself is unchanged.
 """
 
 import os
